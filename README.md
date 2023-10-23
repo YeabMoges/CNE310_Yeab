@@ -1,10 +1,15 @@
 # Project Title
 
-This project demonstrates one of the largest express way in Ethiopia.
+This project demonstrates one of the largest express way tolls in Ethiopia.
 
 ## Getting Started
 
-These instructions will run on your local machine for observation.
+These project works best with IDLE python compiler. 
+Download and Install IDLE to your local computer.
+
+```
+https://www.python.org/downloads/
+``` 
 
 ### Prerequisites
 
