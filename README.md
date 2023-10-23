@@ -22,7 +22,7 @@ http://www.cs1graphics.org/download/current/singlethreaded/cs1graphics.py
 
 To find the potential location on your machine, open Python and execute the following in the interpreter:
 
->>> import sys; print([p for p in sys.path if 'site-packages' in p])
+``` import sys; print([p for p in sys.path if 'site-packages' in p]) ```
 
 
 ## Running
