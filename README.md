@@ -7,7 +7,7 @@ I attempted to showcase one of Ethiopia's major expressway toll using fundamenta
 ## Getting Started
 
 These project works best with IDLE python compiler. 
-Download and Install IDLE to your local computer.
+Download and Install IDLE on your local computer.
 
 ```
 https://www.python.org/downloads/
