@@ -1,6 +1,6 @@
-# Project Title
+# Project Title and Description
 
-This project demonstrates one of the largest express way tolls in Ethiopia.
+I attempted to showcase one of Ethiopia's major expressway toll using fundamental Python programming.
 
 ## Getting Started
 
@@ -13,14 +13,20 @@ https://www.python.org/downloads/
 
 ### Prerequisites
 
-This project requires IDLE python to run, with cs1graphics.py put in a site-packages folder within your Python installation.
+To open this project, you'll need to have cs1graphics.py in your directory. 
+Follow the link below and consider placing it in a "site-packages" folder, the exact location of which depends on your Python installation. 
 
 ```
-(http://www.cs1graphics.org/download/v1.2/singlethreaded/cs1graphics.py)
+http://www.cs1graphics.org/download/current/singlethreaded/cs1graphics.py
 ```
+
+To find the potential location on your machine, open Python and execute the following in the interpreter:
+
+>>> import sys; print([p for p in sys.path if 'site-packages' in p])
+
 
 ## Running
-Once installed you can run the program with the following command
+Once installed you can run the program with running the file
 
 ```
 python ExpressWay.py
