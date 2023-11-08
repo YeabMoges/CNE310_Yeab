@@ -28,7 +28,7 @@ To find the potential location on your machine, open Python and execute the foll
 
 
 ## Running
-Once installed you can run the program with running the file
+Once installed you can run the program with running the file.
 
 ```
 python ExpressWay.py
@@ -37,4 +37,4 @@ python ExpressWay.py
 
 ## Thanks
 
-I would like to express my gratitude to my instructor and fellow classmates at ASTU (Adama Science and Technology University) for their invaluable encouragement and support in the development of this project. Without their assistance, this project would not have been possible.
+I would like to express my gratitude to my instructor and fellow classmates at ASTU (Adama Science and Technology University, Ethiopia) for their invaluable encouragement and support in the development of this project. Without their assistance, this project would not have been possible.
